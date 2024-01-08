@@ -8,5 +8,5 @@ with col1:
   st.write("First pic")
 with col2:
   st.subheader("Second pic")
-  st.image("._G0A8347.JPG", caption="SECOND", width=300,use_column_width=True)
+  st.image("./_G0A8347.JPG", caption="SECOND", width=300,use_column_width=True)
   st.write("Second pic")
